@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis — Primeor Internship Project
+# E-Commerce Sales Analysis 
 
 End-to-end data analytics project analyzing 51,258 global e-commerce order lines (2011–2014), from raw data cleaning through SQL analysis, Power BI dashboards, and a final written business insight report.
 
