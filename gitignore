@@ -1,0 +1,19 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel/Office temp & lock files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Power BI temp files
+*.pbix.bak
+*.pbit.bak
+
+# Editor/IDE
+.vscode/
+.idea/
